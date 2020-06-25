@@ -1,0 +1,2 @@
+include ':app', ':rahul'
+rootProject.name='CallDetailsFromRecentCallLog'
